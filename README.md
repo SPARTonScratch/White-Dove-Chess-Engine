@@ -1,6 +1,8 @@
-# White Dove Chess Engine
+<div align="center">
+  <h1>White Dove Chess Engine</h1>
+  <img src="thumbnail.png" alt="White Dove Chess Engine Logo" width="400">
+</div>
 
-![White Dove Chess Engine Logo](thumbnail.png)
 
 **White Dove** is a chess engine developed entirely within the [Scratch programming language](https://scratch.mit.edu), leveraging the enhanced capabilities of [TurboWarp](https://turbowarp.org). Recognized as one of the top five chess engines in the Scratch/TurboWarp community.
 
