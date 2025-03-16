@@ -11,7 +11,6 @@ Rating: ~2300 elo
 - **Alpha-Beta**: Implements MiniMax with Alpha-Beta Pruning to efficiently evaluate potential moves.
 - **Quiescence Search**: Enhances move evaluation by extending searches beyond standard depths to avoid overlooking critical moves.
 - **Late Move Reductions (LMR)**: Optimizes search efficiency by reducing the depth of less promising moves, allowing deeper exploration of critical lines.
-- **Evaluation Bar**: Provides real-time insights into the engine's assessment of the current board position.
 - **NNUE**: An "Efficiently Updatable Neural Network" is included, and can be accessed via the command line interface within the project, it is noticably weaker than the standard HCE (hand-crafted evaluation) due to poor training, but is still quite strong, and serves as a pretty cool technical demo!
 
 ## Getting Started
