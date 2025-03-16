@@ -18,11 +18,11 @@ Rating: ~2300 elo
 
 To experience White Dove:
 
-1. **Access the Project**: You can find the web version here: https://turbowarp.org/858052938/fullscreen?turbo (or here, but it is much slower: https://scratch.mit.edu/projects/858052938 )
+1. **Access the Project**: You can use the [web version on Turbowarp](https://turbowarp.org/858052938/fullscreen?turbo) or the [Scratch one](https://scratch.mit.edu/projects/858052938/).
 
 OR
 
-1. **Download the .sb3 file**: After downloading the .sb3 file, you can also download the Turbowarp desktop environment here: https://desktop.turbowarp.org/ , next you can simply import and use!
+1. **Download the .sb3 file**: After downloading the .sb3 file, you can also download the [Turbowarp desktop environment](https://desktop.turbowarp.org/), next you can simply import and use!
 
 
 ## License
@@ -31,6 +31,6 @@ GNU General Public License v3.0
 
 ---
 
-*Note: White Dove's development has been influenced by discussions and collaborations within the Scratch community. Special thanks to contributors such as [@ArnoHu](https://scratch.mit.edu/users/ArnoHu/) and [@birdracerthree](https://scratch.mit.edu/users/birdracerthree/) for their insights and support. A lot of code and techniques were also taken from various engines and resources including but not limited to the Chess Programming Wiki, the [Stockfish Chess Engine](https://github.com/official-stockfish/Stockfish) (for a lot of the HCE elements, from SF11)*, [Smallbrain](https://github.com/Disservin/Smallbrain), [GoK](https://scratch.mit.edu/projects/148769358/), and many more. This project would not have been possible without them!
+*Note: White Dove's development has been influenced by discussions and collaborations within the Scratch community. Special thanks to contributors such as [@ArnoHu](https://scratch.mit.edu/users/ArnoHu/) and [@birdracerthree](https://scratch.mit.edu/users/birdracerthree/) for their insights and support. A lot of code and techniques were also taken from various engines and resources including but not limited to the Chess Programming Wiki, the [Stockfish Chess Engine](https://github.com/official-stockfish/Stockfish) (for a lot of the HCE elements, from SF11),[Smallbrain](https://github.com/Disservin/Smallbrain), [GoK](https://scratch.mit.edu/projects/148769358/), and many more. This project would not have been possible without them!*
 
 
