@@ -27,9 +27,9 @@ OR
 
 ## Scratch vs Turbowarp
 
-Scratch is a block-based coding environment designed primarily to make teaching coding easy for absolute beginners. However, it is very very slow, due to various traits of the langauge itself.
+[Scratch](scratch.mit.edu) is a block-based coding environment designed primarily to make teaching coding easy for absolute beginners. However, it is very very slow, due to various traits of the langauge itself.
 
-So, various engine creators on Scratch also use Turbowarp (which is around 40x faster than Scratch), which is another developement environment, that *still* uses the Scratch programming language. The reason that it is much much faster is because it first compiles the code to Javascript before running it. Even then, it is still incredible inefficient (and slow compared to other languages, such as c++ or rust), due to needing to have backwards compatibility with default Scratch.
+So, various engine creators on Scratch also use [Turbowarp](https://turbowarp.org/) (which is around 40x faster than Scratch), which is another developement environment, that *still* uses the Scratch programming language. The reason that it is much much faster is because it first compiles the code to Javascript before running it. Even then, it is still incredible inefficient (and slow compared to other languages, such as c++ or rust), due to needing to have backwards compatibility with default Scratch.
 
 ## License
 
