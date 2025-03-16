@@ -1,6 +1,6 @@
 # White Dove Chess Engine
 
-![White Dove Chess Engine Logo](path/to/logo.png)
+![White Dove Chess Engine Logo](thumbnail%20main.svg)
 
 **White Dove** is a chess engine developed entirely within the Scratch programming environment, leveraging the enhanced capabilities of TurboWarp. Recognized as one of the top five chess engines in the Scratch/TurboWarp community, White Dove offers both expressive and dynamic gameplay experiences.
 
