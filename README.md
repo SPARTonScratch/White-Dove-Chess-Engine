@@ -1,6 +1,6 @@
 <div align="center">
   <h1>White Dove Chess Engine</h1>
-  <img src="thumbnail.png" alt="White Dove Chess Engine Logo" width="400">
+  <img src="thumbnail.png" alt="White Dove Chess Engine Logo" width="600">
 </div>
 
 
