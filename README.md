@@ -6,14 +6,14 @@
 
 **White Dove** is a chess engine developed entirely within the [Scratch programming language](https://scratch.mit.edu), leveraging the enhanced capabilities of [TurboWarp](https://turbowarp.org). Recognized as one of the top five chess engines in the Scratch/TurboWarp community.
 
-Rating: ~2300 elo
+Rating: ~2500 elo
 
 ## Features
 
 - **Alpha-Beta**: Implements MiniMax with Alpha-Beta Pruning to efficiently evaluate potential moves.
 - **Quiescence Search**: Enhances move evaluation by extending searches beyond standard depths to avoid overlooking critical moves.
-- **Late Move Reductions (LMR)**: Optimizes search efficiency by reducing the depth of less promising moves, allowing deeper exploration of critical lines.
-- **NNUE**: An "Efficiently Updatable Neural Network" is included, and can be accessed via the command line interface within the project, it is noticably weaker than the standard HCE (hand-crafted evaluation) due to poor training, but is still quite strong, and serves as a pretty cool technical demo! The net was trained with [the NNUE / ML Bullet Trainer](https://github.com/jw1912/bullet)
+- **Late Move Reductions (LMR)**: Reduces depth of less promising moves, allowing deeper exploration of critical lines.
+- **NNUE**: An "Efficiently Updatable Neural Network" is included, and it was trained with [the NNUE / ML Bullet Trainer](https://github.com/jw1912/bullet)
   - (768 => 128)x2 => 1
 
 ## Getting Started
