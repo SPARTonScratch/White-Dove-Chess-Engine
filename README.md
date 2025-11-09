@@ -8,13 +8,14 @@
 
 Rating: ~2500 elo
 
-## Features
+## Search + Evaluation
 
 - **Alpha-Beta**: Implements MiniMax with Alpha-Beta Pruning to efficiently evaluate potential moves.
 - **Quiescence Search**: Enhances move evaluation by extending searches beyond standard depths to avoid overlooking critical moves.
 - **Late Move Reductions (LMR)**: Reduces depth of less promising moves, allowing deeper exploration of critical lines.
 - **NNUE**: An "Efficiently Updatable Neural Network" is included, and it was trained with [the NNUE / ML Bullet Trainer](https://github.com/jw1912/bullet)
   - (768 => 128)x2 => 1
+  - Note that NNUE is off by default, but can be enabled via the command line interface, or the settings panel directly in the project
 
 ## Getting Started
 
