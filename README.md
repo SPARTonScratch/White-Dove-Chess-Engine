@@ -8,13 +8,15 @@
 
 Rating: ~2500 elo
 
-## Search + Evaluation
+## Features
 
 - **Alpha-Beta**: Implements MiniMax with Alpha-Beta Pruning to efficiently evaluate potential moves.
 - **Quiescence Search**: Enhances move evaluation by extending searches beyond standard depths to avoid overlooking critical moves.
 - **Late Move Reductions (LMR)**: Reduces depth of less promising moves, allowing deeper exploration of critical lines.
+- **Null Move Pruning (NMP)**: Prunes nodes where even skipping a move still is "too good".
+- **Principal Variation Search (PVS)**: Uses null-window searches to prove that a move is not as good as the known PV.
 - **NNUE**: An "Efficiently Updatable Neural Network" is included, and it was trained with [the NNUE / ML Bullet Trainer](https://github.com/jw1912/bullet)
-  - (768 => 128)x2 => 1
+  - (768 => 256)x2 => 1
   - Note that NNUE is off by default, but can be enabled via the command line interface, or the settings panel directly in the project
 
 ## Getting Started
